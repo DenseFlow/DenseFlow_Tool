@@ -1,0 +1,2 @@
+Requirement already satisfied: scipy in c:\python37\lib\site-packages (1.4.1)
+Requirement already satisfied: numpy>=1.13.3 in c:\python37\lib\site-packages (from scipy) (1.17.3)
