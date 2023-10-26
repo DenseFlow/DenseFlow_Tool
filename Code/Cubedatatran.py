@@ -78,11 +78,6 @@ def caldataset(casename,setting1=10,setting2 = 2):
     account_to = raw_data['to'].tolist()
     account_total = BING(account_from,account_to)
     
-    
-# ############按照论文的分法具体地说，
-# 我们把转账比转出账户大得多的账户分成X，
-# 相反，分成Z，其余的分成Y。请注意，
-# 这并不意味着X，Y，Z必须是不相交的，而这种预处理有助于加快我们的算法
     AccA = []
     AccM = []
     AccC = []
