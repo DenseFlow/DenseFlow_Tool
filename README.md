@@ -1,5 +1,6 @@
 # DenseFlow_Tool
-
+## Introduction
+This is a model used for money laundering detection on Ehtereum base on the model DenseFlow. 
 ## Setting
 In path Code/info.py change the path.
 ## Data
