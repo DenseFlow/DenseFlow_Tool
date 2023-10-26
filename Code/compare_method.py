@@ -1,5 +1,4 @@
-import sys
-sys.path.append("F:/Inpluslab2023/2023antiML_Experiment/spartan2-master")
+from Code.info import *
 import spartan as st
 import Code.Datatran_1 as dt
 import Code.Cubedatatran as cube
