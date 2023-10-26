@@ -1,7 +1,8 @@
 #PATH = 'F:/Inpluslab2023/2023antiML_Experiment/spartan2-tutorials-master/spartan2-tutorials-master/'
 #PATH = 'F:/Inpluslab2023/2023antiML_Experiment/spartan2-tutorials-master/spartan2-tutorials-master/'
 
-
+import sys
+sys.path.append("F:/Inpluslab2023/2023antiML_Experiment/spartan2-master")
 CASES = [
 'AlphaHomora',
 'AscendEXHacker',
