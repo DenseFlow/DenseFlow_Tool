@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import os
 from random import sample
-
+from Code.info import *
 # csvtodata(csv_path)    将原始csv里的from\to地址转化编号，并存储映射关系。输入：csv路径
 # myReadData(path)       读取单个映射关系文件。输入：文件路径
 # num_to_addr(csvname)   获得从编号->地址的映射关系。输入：原始数据的csv名称
