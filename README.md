@@ -1,4 +1,7 @@
 # DenseFlow_Tool
+## Workflow
+![image](https://github.com/IMG/Fig_workflow.png)
+
 ## Introduction
 This is a model used for money laundering detection on Ethereum based on the model DenseFlow. 
 ## Setting
