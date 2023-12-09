@@ -23,7 +23,7 @@ Run main.ipynb
 
 | Symbols                   | Interpretation                                               |
 | ------------------------- | ------------------------------------------------------------ |
-| $$G$$                     | Downstream transaction network                               |
+| $G$                     | Downstream transaction network                               |
 | $V$                       | Nodes of graph $G$                                           |
 | $E$                       | Transaction edges of graph $G$, each edge $e=(i,j,a,t)$,sender's account ($i$), the recipient's account ($j$) |
 | $a$                       | Transaction amount                                           |
