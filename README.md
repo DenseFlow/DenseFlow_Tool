@@ -50,3 +50,38 @@ Run main.ipynb
 
 
 
+
+## Empirical evidence on the density issue
+
+Here we provide some empirical evidence on the density issue of money laundering networks from reports of blockchain security companies.
+
+### Figure 1. Cylynx: Money Laundering Illustration of UpbitHack Case [1] ###
+![image](https://github.com/DenseFlow/DenseFlow_Tool/blob/main/IMG/Fig_UpbitHack.png)
+
+[1] Cylynx. 2020. Tracing the Trail of the Upbit Hack. https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/
+
+
+### Figure 2. Peckshield: Money Laundering Illustration of PlusTokenPonzi Case [2][3] ###
+
+![image](https://github.com/DenseFlow/DenseFlow_Tool/blob/main/IMG/Fig_PlusTokenPonzi.jpg)
+
+
+[2] PeckShield Team. 2021. Digital currency anti-money laundering research report: 2020 annual report. https://coinholmes.com/static/pdf/2020_2.pdf
+
+[3] PeckShield Team. PlusToken new bottles of old wine cheat 10 billion OTC into an important access to gold channel. https://mp.weixin.qq.com/s/y5R3Raznu3dVMDFsAz25ww
+
+
+### Figure 3. TRM Lab: Money Laundering Illustration of Pig Butchering Scams [4] ###
+
+![image](https://github.com/DenseFlow/DenseFlow_Tool/blob/main/IMG/Fig_Pig_Butchering.png)
+
+[4] TRM Lab. 2023. Illicit crypto ecosystem report: A comprehensive guide to illicit finance risks in crypto. https://www.trmlabs.com/report#Fraud-and-Scams
+
+
+### Figure 4. Elliptic: Money Laundering Network Illustration of Cryptocurrency Crimes [5] ###
+![image](https://github.com/DenseFlow/DenseFlow_Tool/blob/main/IMG/Fig_Elliptic.png)
+
+[5] Elliptic Team. 2023. The state of cross-chain crime. https://www.elliptic.co/resources/state-of-cross-chain-crime-2023#:~:text=The%20State%20of%20Cross-chain%20Crime%202023%20In%20October,decentralized%20exchanges%2C%20cross-chain%20bridges%20and%20coin%20swap%20services.
+
+
+
